@@ -7,7 +7,9 @@ TANTANGAN           : Menyimpan halaman yang dikunjungi. Tombol "Back" kembali k
                       
 NAMA KELOMPOK       : SEE-U
 
-ANGGOTA KELOMPOK    : REYHAN MORENO         J0403251007 
+ANGGOTA KELOMPOK    : 
+
+                      REYHAN MORENO         -J0403251007 
 
                       HAIKAL FAQIH AUFA     -J0403251021 
                       
