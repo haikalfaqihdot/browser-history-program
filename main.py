@@ -288,10 +288,10 @@ def main():
             clear_screen()
             print_header("URUTKAN HISTORY")
             options_sort = [
-                ("1", "Terbaru Dulu",   "Sort by waktu descending"),
-                ("2", "Terlama Dulu",   "Sort by waktu ascending"),
-                ("3", "Judul A-Z",      "Sort by nama halaman"),
-                ("4", "Judul Z-A",      "Sort by nama halaman terbalik"),
+                ("1", "Terlama Dulu",   "Sort by waktu ascending"),
+                ("2", "Terbaru Dulu",   "Sort by waktu descending"),
+                ("3", "Judul Z-A",      "Sort by nama halaman terbalik"),
+                ("4", "Judul A-Z",      "Sort by nama halaman"),
             ]
             print_menu(options_sort)
             s = input(f"\n  {CYAN}›{RESET} Pilihan: ").strip()
@@ -315,7 +315,7 @@ def main():
 
         elif pilih == "7":
             clear_screen()
-            print(f"\n  {DIM}Sampai jumpa, {username}! 👋{RESET}\n")
+            print(f"\n  {DIM}Sampai jumpa, {username}! {RESET}\n")
             break
 
         else:

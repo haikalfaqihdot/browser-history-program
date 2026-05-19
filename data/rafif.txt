@@ -1,2 +1,6 @@
+github.com|GitHub|19-05-2026 15:55:19
+Gojek.com|Gojek|19-05-2026 15:55:16
+github.com|GitHub|19-05-2026 15:54:58
+google.com|Google Search|19-05-2026 15:54:40
 spotify.com|Spotify|13-05-2026 22:51:29
 google.com|Google Search|13-05-2026 22:51:20
