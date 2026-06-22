@@ -1,5 +1,4 @@
-youtube.com|YouTube|20-05-2026 15:09:02
-github.com|GitHub|20-05-2026 15:08:42
-spotify.com|Spotify|20-05-2026 15:08:36
-spotify.com|Spotify|20-05-2026 15:08:12
-google.com|Google Search|20-05-2026 15:08:10
+spotify.com|Spotify|22-06-2026 20:34:01
+youtube.com|YouTube|22-06-2026 20:33:17
+youtube.com|YouTube|22-06-2026 20:33:10
+google.com|Google Search|22-06-2026 20:33:07
